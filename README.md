@@ -1,9 +1,5 @@
 # Machine Learning – CIE 2, Activity 1: Dataset Preparation
 
-**Course:** Machine Learning [ADPC509]
-**Class:** T.Y. B.Tech (AI & DS), Semester V, Academic Year 2026–27
-**Name:** _<your name>_  **Roll No.:** _<your roll number>_  **Division:** _<A/B/C>_
-
 ## Dataset
 
 | Item | Detail |
